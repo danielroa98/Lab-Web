@@ -44,6 +44,7 @@ function App() {
         ))}
       </div> */}
       <h1>{date.toLocaleTimeString()}</h1>
+      <h2>This is a demo</h2>
     </div>
   );
 }
